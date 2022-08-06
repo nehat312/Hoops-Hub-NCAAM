@@ -1,2 +1,2 @@
-# hoops-hub-ncaam
+# Hoops-Hub-NCAAM
 NCAAM Basketball Dashboard
